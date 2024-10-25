@@ -91,7 +91,6 @@ while game_is_on:
     screen.update()
     ball.move()
 
-    # Move paddles while key is pressed
     move_r_paddle()
     move_l_paddle()
 
